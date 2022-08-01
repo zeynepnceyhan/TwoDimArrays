@@ -1,0 +1,15 @@
+C:\Users\zeynep\source\repos\TwoDimArrays\TwoDimArrays\bin\Debug\net6.0\TwoDimArrays.exe
+C:\Users\zeynep\source\repos\TwoDimArrays\TwoDimArrays\bin\Debug\net6.0\TwoDimArrays.deps.json
+C:\Users\zeynep\source\repos\TwoDimArrays\TwoDimArrays\bin\Debug\net6.0\TwoDimArrays.runtimeconfig.json
+C:\Users\zeynep\source\repos\TwoDimArrays\TwoDimArrays\bin\Debug\net6.0\TwoDimArrays.dll
+C:\Users\zeynep\source\repos\TwoDimArrays\TwoDimArrays\bin\Debug\net6.0\TwoDimArrays.pdb
+C:\Users\zeynep\source\repos\TwoDimArrays\TwoDimArrays\obj\Debug\net6.0\TwoDimArrays.csproj.AssemblyReference.cache
+C:\Users\zeynep\source\repos\TwoDimArrays\TwoDimArrays\obj\Debug\net6.0\TwoDimArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep\source\repos\TwoDimArrays\TwoDimArrays\obj\Debug\net6.0\TwoDimArrays.AssemblyInfoInputs.cache
+C:\Users\zeynep\source\repos\TwoDimArrays\TwoDimArrays\obj\Debug\net6.0\TwoDimArrays.AssemblyInfo.cs
+C:\Users\zeynep\source\repos\TwoDimArrays\TwoDimArrays\obj\Debug\net6.0\TwoDimArrays.csproj.CoreCompileInputs.cache
+C:\Users\zeynep\source\repos\TwoDimArrays\TwoDimArrays\obj\Debug\net6.0\TwoDimArrays.dll
+C:\Users\zeynep\source\repos\TwoDimArrays\TwoDimArrays\obj\Debug\net6.0\refint\TwoDimArrays.dll
+C:\Users\zeynep\source\repos\TwoDimArrays\TwoDimArrays\obj\Debug\net6.0\TwoDimArrays.pdb
+C:\Users\zeynep\source\repos\TwoDimArrays\TwoDimArrays\obj\Debug\net6.0\TwoDimArrays.genruntimeconfig.cache
+C:\Users\zeynep\source\repos\TwoDimArrays\TwoDimArrays\obj\Debug\net6.0\ref\TwoDimArrays.dll
